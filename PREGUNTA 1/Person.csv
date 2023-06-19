@@ -1,0 +1,5 @@
+AddressID;AddressLine1;AddressLine2;City;StateProvinceID;PostalCode;SpatialLocation;rowguid;ModifiedDate
+201;123 Main St;;City1;79;98004;;1234;1/1/2021
+202;456 Elm St;;City2;79;98004;;5678;2/2/2021
+203;789 Oak St;;City3;79;98004;;9101;3/3/2021
+204;321 Pine St;;City4;79;98004;;1121;4/4/2021
